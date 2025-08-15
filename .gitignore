@@ -1,0 +1,27 @@
+node_modules
+# Logs
+logs
+npm-debug.log*
+yarn-debug.log*
+# Environment variables
+.env
+# Build output
+dist/
+# Temporary files
+
+# IDE specific files
+.vscode/
+# OS specific files
+.DS_Store
+# Editor specific files
+.idea/
+# Build artifacts
+# Miscellaneous
+# Ignore all files in the build directory
+build/  
+# Ignore all files in the dist directory
+dist/
+# Ignore all files in the coverage directory
+coverage/
+
+
